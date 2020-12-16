@@ -1,0 +1,17 @@
+D:\SEMESTER TELU\pemrograman\Promos\Promos\bin\Debug\Promos.exe.config
+D:\SEMESTER TELU\pemrograman\Promos\Promos\bin\Debug\Promos.exe
+D:\SEMESTER TELU\pemrograman\Promos\Promos\bin\Debug\Promos.pdb
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\MainWindow.g.cs
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Penawaran.g.cs
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\App.g.cs
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos_MarkupCompile.cache
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos_MarkupCompile.lref
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\MainWindow.baml
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Penawaran.baml
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.g.resources
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.Properties.Resources.resources
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.csproj.CoreCompileInputs.cache
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.exe
+D:\SEMESTER TELU\pemrograman\Promos\Promos\obj\Debug\Promos.pdb
